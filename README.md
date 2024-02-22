@@ -5,4 +5,4 @@ The "React Audio Player" is a web application that allows users to upload audio 
 
 
 ## Tech Stacks
-React.js,Vite, localStorage, React-Component, Browser-API, HTML-CSS-JS, HTML-audio-Element and HTML-audio-player, TailwindCSS.
+React.js,Vite, localStorage, React-Component, Browser-API, HTML-CSS-JS, HTML-audio-Element and HTML-audio-player.

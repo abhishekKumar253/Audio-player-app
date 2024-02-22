@@ -8,3 +8,7 @@ The application provides a persistent user experience by saving the last playing
 
 ## Tech Stacks
 React.js,Vite, localStorage, React-Component, Browser-API, HTML-CSS-JS, HTML-audio-Element and HTML-audio-player.
+
+Hosted Web App Link on Vercel
+
+https://audio-player-app-6zps.vercel.app
